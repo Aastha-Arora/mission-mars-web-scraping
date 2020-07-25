@@ -39,3 +39,6 @@ Routes
 **Template HTML file `index.html`**
 
 This file takes the mars data dictionary and displays all of the data in the appropriate HTML elements.
+
+
+![](https://github.com/Aastha-Arora/web-scraping-challenge/blob/master/Missions_to_Mars/Screenshots/Screenshot%201.png)
