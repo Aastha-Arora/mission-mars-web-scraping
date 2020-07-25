@@ -28,7 +28,7 @@ Extract the high resolution images for each of Mar's hemispheres
 
 ### Step 2 - MongoDB and Flask Application
 MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped.
-Pymongo is used for CRUD applications for the database. 
+PyMongo is used for CRUD applications for the database. 
 
 Flask App `app.py`
 
