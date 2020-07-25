@@ -1,4 +1,4 @@
-## Web Scraping Homework - Mission to Mars
+## Web Scraping - Mission to Mars
 
 ### Objective
 
