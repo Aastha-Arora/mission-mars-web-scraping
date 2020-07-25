@@ -38,4 +38,4 @@ Routes
 
 **Template HTML file `index.html`**
 
-This file takes the mars data dictionary and display all of the data in the appropriate HTML elements.
+This file takes the mars data dictionary and displays all of the data in the appropriate HTML elements.
